@@ -1,20 +1,20 @@
 <template>
-  <nav
-    class="fixed top-0 left-0 right-0 z-50 backdrop-blur-md bg-white/80 dark:bg-gray-900/80 border-b border-gray-200/20 dark:border-gray-700/20"
-  >
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="flex items-center justify-between h-16">
-        <div class="flex-shrink-0 items-center space-x-2">
+  <div class="fixed top-6 left-0 right-0 z-50 flex justify-center px-4">
+    <nav
+      class="backdrop-blur-md bg-white/40 dark:bg-gray-900/40 border border-white/30 dark:border-gray-700/30 rounded-xl shadow-2xl shadow-black/10 px-6 py-3 w-full max-w-4xl"
+    >
+      <div class="flex items-center justify-between">
+        <a class="flex items-center space-x-2 flex-shrink-0">
           <div
-            class="w-10 h-10 bg-gradient-to-br from-red-500 to-red-600 rounded-lg flex items-center justify-center text-white font-bold text-xl"
+            class="w-10 h-10 bg-gradient-to-br bg-red-600 rounded-lg flex items-center justify-center text-white font-bold text-lg shadow-lg"
           >
             ADV
           </div>
-        </div>
+        </a>
 
         <div class="flex items-center space-x-3">
           <div
-            class="flex items-center space-x-2 bg-white/60 dark:bg-gray-800/60 px-4 py-2 rounded-full border border-gray-200/30 dark:border-gray-700/30"
+            class="flex items-center space-x-2 bg-white/50 dark:bg-gray-800/50 px-4 py-2 rounded-full border border-gray-200/30 dark:border-gray-700/30"
           >
             <div class="relative">
               <div
@@ -41,8 +41,8 @@
           </div>
         </div>
       </div>
-    </div>
-  </nav>
+    </nav>
+  </div>
 </template>
 
 <script setup>
