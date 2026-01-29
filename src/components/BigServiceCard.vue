@@ -1,7 +1,7 @@
 <template>
   <div
-    :class="props.color"
     class="rounded-xl p-8 md:p-12 flex flex-col md:flex-row items-center gap-8"
+    :class="props.color"
   >
     <div
       v-if="props.imagePos === 'left'"
@@ -29,8 +29,6 @@
 </template>
 
 <script setup>
-import { defineProps } from "vue";
-
 const props = defineProps({
   title: {
     type: String,
