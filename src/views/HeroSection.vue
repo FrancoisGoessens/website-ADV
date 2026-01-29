@@ -1,6 +1,6 @@
 <template>
   <section
-    class="min-h-screen flex items-center justify-center bg-gray-50 dark:bg-gray-900 pt-32 sm:pt-36"
+    class="min-h-[70vh] flex items-center justify-center bg-gray-50 dark:bg-gray-900 pt-8 sm:pt-12"
   >
     <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
       <div class="mb-8 flex justify-center">
@@ -33,35 +33,6 @@
         <div class="flex items-center gap-2">
           <span class="font-semibold">📱 +150K followers</span>
         </div>
-      </div>
-
-      <div class="mt-24 space-y-8 text-left">
-        <h2 class="text-3xl font-bold text-gray-900 dark:text-white">
-          Lorem Ipsum
-        </h2>
-        <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-          minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-          aliquip ex ea commodo consequat.
-        </p>
-        <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-          Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
-          dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-          proident, sunt in culpa qui officia deserunt mollit anim id est
-          laborum.
-        </p>
-        <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae
-          ab illo inventore veritatis et quasi architecto beatae vitae dicta
-          sunt explicabo.
-        </p>
-        <p class="text-gray-600 dark:text-gray-400 leading-relaxed">
-          Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut
-          fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem
-          sequi nesciunt.
-        </p>
       </div>
     </div>
   </section>
