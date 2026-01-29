@@ -1,0 +1,48 @@
+{
+  "mainServices": [
+    {
+      "id": 1,
+      "title": "Assemblage PC sur mesure",
+      "description": "Gaming, station de travail ou bureautique, nous créons votre PC fixe idéal. Après échange sur vos besoins et budget, nous proposons 2-3 devis personnalisés. Nous commandons, assemblons et installons tout. Vous repartez avec un PC prêt à l'emploi.",
+      "image": "https://picsum.photos/600/400",
+      "imagePos": "left",
+      "color": "bg-gray-700"
+    },
+    {
+      "id": 2,
+      "title": "Dépannage & Réparation",
+      "description": "PC qui rame ou ne démarre plus ? Disque dur mort, virus, lenteur... nous diagnostiquons et réparons tous vos problèmes hardware et software. Diagnostic gratuit, devis transparent, récupération de données possible.",
+      "image": "https://picsum.photos/600/400",
+      "imagePos": "right",
+      "color": "bg-gray-500"
+    },
+    {
+      "id": 3,
+      "title": "Vente PC & Conseil",
+      "description": "Large sélection de PC portables pour tous usages : bureautique, gaming, graphisme, études. Choisissez selon votre budget, nous installons Windows et paramétrons votre machine. Repartez avec votre portable prêt à utiliser.",
+      "image": "https://picsum.photos/600/400",
+      "imagePos": "left",
+      "color": "bg-gray-700"
+    }
+  ],
+  "secondaryServices": [
+    {
+      "id": 1,
+      "title": "Réparation mobile",
+      "description": "Écran cassé, batterie, port de charge ou haut-parleur défectueux ? Réparation smartphones et tablettes, iPhone et Android. Pièces certifiées, diagnostic gratuit.",
+      "image": "https://picsum.photos/450/650"
+    },
+    {
+      "id": 2,
+      "title": "Accessoires & Pièces",
+      "description": "Câbles, adaptateurs, cartouches d'encre, périphériques gaming, composants PC sur commande (GPU, RAM, SSD)... Tout votre équipement informatique et pièces détachées à l'unité.",
+      "image": "https://picsum.photos/550/850"
+    },
+    {
+      "id": 3,
+      "title": "Impression A4",
+      "description": "Impression rapide noir et blanc ou couleur. CV, factures, documents administratifs... Qualité professionnelle, pas de minimum.",
+      "image": "https://picsum.photos/650/950"
+    }
+  ]
+}
